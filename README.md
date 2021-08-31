@@ -9,10 +9,11 @@ This app is just a tiny project learning another way to take advantage of the ca
 Check out the demo video here (https://youtu.be/cXQZBEAsjDA) and some snapshots of the experience:
 
 <p align="center">
-  <img width="400" src="images/figdraw2.PNG">
-  <img width="400" src="images/figdraw3.PNG">
-  <img width="400" src="images/figdraw4.PNG">
-  <img width="400" src="images/figdraw5.PNG">
+  <img width="500" src="images/figdraw1.PNG">
+  <img width="500" src="images/figdraw2.PNG">
+  <img width="500" src="images/figdraw3.PNG">
+  <img width="500" src="images/figdraw4.PNG">
+  <img width="500" src="images/figdraw5.PNG">
 </p>
 
 
